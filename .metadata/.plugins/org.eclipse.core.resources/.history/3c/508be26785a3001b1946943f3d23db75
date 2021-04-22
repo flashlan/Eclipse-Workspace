@@ -1,0 +1,20 @@
+package loianejavaBasico1LerTeclado;
+
+// import classe Scanner
+import java.util.Scanner;
+
+
+// variavel tipo string de nome "nome", le uma linha inteira
+//String nome = scan.nextLine(); // linha inteira
+//String primeiroNome = scan.next(); // retorna string
+//int idade = scan.nextInt(); // le inteiro
+//double altura = scan.nextDouble(); //retorna double
+
+public class LerTeclado {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in); // instancía
+		System.out.println("Digite seu nome Completo: "); //msg
+		String nomeCompleto = scan.nextLine(); // variavel nomecompleto para pegar entrada
+		System.out.println("Seu nome completo é : " + nomeCompleto); // printa output da variavel
+	}
+}

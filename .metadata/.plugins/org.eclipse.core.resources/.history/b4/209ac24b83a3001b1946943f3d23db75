@@ -1,0 +1,12 @@
+package loianejavaBasico1LerTeclado;
+
+import java.util.Scanner;
+
+// variavel strinf de nome "nome" le uma linha
+String nome = scan.nextline();
+
+public class LerTeclado {
+	
+};
+
+Scanner scan = new Scanner(System.in);

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_L9TIoKLVEeunmsJ7u0RE3A" name="Pac-Mac">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_ME6zkKLVEeunmsJ7u0RE3A">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Model" xmi:id="_9LylsKLgEeunmsJ7u0RE3A" name="Pac-mac">
+    <packagedElement xmi:type="uml:Class" xmi:id="_Bazj0KLhEeunmsJ7u0RE3A" name="RedGhostBehavior">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_iex7EKLhEeunmsJ7u0RE3A" name="Perseguir"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_VSZ5AKLkEeunmsJ7u0RE3A" name="Ghosts" isAbstract="true"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_j2GzAKLkEeunmsJ7u0RE3A" client="_Bazj0KLhEeunmsJ7u0RE3A" supplier="_VSZ5AKLkEeunmsJ7u0RE3A"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_wXutQKL0EeunmsJ7u0RE3A" name="PinkGhostBehavior"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_NpKnAKL1EeunmsJ7u0RE3A" client="_wXutQKL0EeunmsJ7u0RE3A" supplier="_VSZ5AKLkEeunmsJ7u0RE3A"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_QSEi8KL1EeunmsJ7u0RE3A" name="WhiteGhostBehavior"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_SN4vYKL1EeunmsJ7u0RE3A" client="_QSEi8KL1EeunmsJ7u0RE3A" supplier="_VSZ5AKLkEeunmsJ7u0RE3A"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_YrCZAKL1EeunmsJ7u0RE3A" name="OrangeGhostBehavior">
+      <nestedClassifier xmi:type="uml:DataType" xmi:id="_ZO7wQKL1EeunmsJ7u0RE3A" name="DataType1"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_bnAa4KL1EeunmsJ7u0RE3A" client="_YrCZAKL1EeunmsJ7u0RE3A" supplier="_VSZ5AKLkEeunmsJ7u0RE3A"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_yGsekKL2EeunmsJ7u0RE3A" name="Pac-Mac"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_9YLZ4KL2EeunmsJ7u0RE3A" name="Look-and-Feel"/>
+  </packagedElement>
+</uml:Model>
