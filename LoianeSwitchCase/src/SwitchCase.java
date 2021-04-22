@@ -18,7 +18,7 @@ public class SwitchCase {
 		default: System.out.println("Não é um dia da semana válido!");
 		
 		
-		//case 1: System.out.println("Domingo");
+		// break . executa e para no break
 	
 		}
 		
