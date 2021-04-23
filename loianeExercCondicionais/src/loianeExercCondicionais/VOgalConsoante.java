@@ -13,6 +13,8 @@ public class VOgalConsoante {
 		System.out.println("consoante");
 	}
 	
+	
+	
 	switch(letra) {
 		case "a": 
 		case "e": 
