@@ -18,7 +18,7 @@ public class testeCarro {
 		
 		//instanciando classe 
 		/*
-		 * Carro van2 = new Carro("Fiat", "Ducato", 10, 100, 0.2 );
+		 * MinhaCalculadora van2 = new MinhaCalculadora("Fiat", "Ducato", 10, 100, 0.2 );
 		 * 
 		 * System.out.println(van2.marca); System.out.println(van2.modelo);
 		 * System.out.println(van2.numPassageiros);

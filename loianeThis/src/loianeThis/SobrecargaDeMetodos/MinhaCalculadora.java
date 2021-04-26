@@ -1,12 +1,9 @@
 package loianeThis.SobrecargaDeMetodos;
 
-
-
-
 public class MinhaCalculadora {
 	//declarar mais métodos com o mesmo nome, mas com assinaturas diferentes ( retorno com 
 	//tipos diferentes ou quantidade de parametros  diferentes
-	 public int soma(int num1, int num2) { 
+	 public static int soma(int num1, int num2) { 
 		 return num1 + num2; 
 	}
 	 
@@ -27,6 +24,3 @@ public class MinhaCalculadora {
 	 }
 }
 
-public class Carro {
-
-}
