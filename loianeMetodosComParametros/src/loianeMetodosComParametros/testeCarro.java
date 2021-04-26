@@ -17,6 +17,13 @@ public class testeCarro {
 		 System.out.println(fusca.obterAutonomia());
 		
 		 //double autonomia = fusca
+		 
+		 double qtdCombustivel20 = fusca.calcularCombustivel(20);
+		 double qtdCombustivel10 = fusca.calcularCombustivel(10);
+		 
+		 System.out.println("qtdCombustivel20: " + qtdCombustivel10);
+		 
+		 
 
 
 	}

@@ -19,6 +19,8 @@ public class Carro {
 		return capacCombustivel * consumoCombustivel;
 	}
 	
+	
+	//
 	double calcularCombustivel(double km) {
 		double qtdCombustivel = km / consumoCombustivel;
 		return qtdCombustivel;
