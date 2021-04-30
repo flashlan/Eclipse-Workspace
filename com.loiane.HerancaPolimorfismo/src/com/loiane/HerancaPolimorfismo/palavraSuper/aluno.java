@@ -1,11 +1,14 @@
-package com.loiane.HerancaPolimorfismo.Heranca;
+package com.loiane.HerancaPolimorfismo.palavraSuper;
 
+public class aluno extends Pessoa {
 
-//usar extends para sinalizar heranca
-public class aluno extends Pessoa{
-	
 	private String curso;
 	private double[] notas;
+	
+	//super
+	public aluno() {
+		super();
+	}
 	
 	
 	public String getCurso() {
@@ -32,3 +35,4 @@ public class aluno extends Pessoa{
 
 
 }
+
