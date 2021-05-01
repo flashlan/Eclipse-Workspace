@@ -23,7 +23,7 @@ public class teste {
 	
 		//contaSimples.sacar(70);
 		//static pois usado dentro de  public static void main
-		private static void realizarSaque(ContaBancaria conta, double valor) {
+		private static double realizarSaque(ContaBancaria conta, double valor) {
 			if (conta.sacar(valor)) {
 				System.out.println("Saque efetuado com sucesso! Novo saldo: " + contaSimples.getSaldo());
 			} else {
