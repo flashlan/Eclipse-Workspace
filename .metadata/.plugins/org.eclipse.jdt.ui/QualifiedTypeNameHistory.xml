@@ -4,5 +4,14 @@
     <fullyQualifiedTypeName name="loianeThis.SobrecargaDeMetodos.MinhaCalculadora"/>
     <fullyQualifiedTypeName name="loianeThis.contador.contador"/>
     <fullyQualifiedTypeName name="loianeThis.recursividade.recursividade"/>
+    <fullyQualifiedTypeName name="com.loyane.Interfaces.AnimalEstimacao"/>
+    <fullyQualifiedTypeName name="com.loiane.POOExerc.DimensaoSuperficial"/>
+    <fullyQualifiedTypeName name="com.loiane.POOExerc.DimensaoVolumetrica"/>
+    <fullyQualifiedTypeName name="com.loiane.POOExerc.FiguraGeometrica"/>
+    <fullyQualifiedTypeName name="com.loiane.POOExerc.Figura2D"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.loiane.tryECatch.CriarExceptions.DivisaoNaoExata"/>
+    <fullyQualifiedTypeName name="com.loiane.tryECatch.exercFinal.AgendaCheiaException"/>
 </qualifiedTypeNameHistroy>
