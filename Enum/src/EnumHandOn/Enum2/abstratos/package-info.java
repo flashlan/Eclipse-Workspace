@@ -1,0 +1,1 @@
+package EnumHandOn.Enum2.abstratos;

@@ -14,4 +14,5 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="com.loiane.tryECatch.CriarExceptions.DivisaoNaoExata"/>
     <fullyQualifiedTypeName name="com.loiane.tryECatch.exercFinal.AgendaCheiaException"/>
+    <fullyQualifiedTypeName name="EnumHandOn.Enum2.abstratos.GeraCpfCnpj"/>
 </qualifiedTypeNameHistroy>
